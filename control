@@ -1,0 +1,9 @@
+Package: com.x2n.project
+Name:IGGMain
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description:IGGMain
+Maintainer:X2N
+Author:X2N
+Section: Tweaks
